@@ -93,21 +93,7 @@
             ]
           }
         }
-      },
-      "assets": [
-        "assets",
-        "faicon.ico",
-        {
-          "glob": "index.js",
-          "input": "./server/",
-          "output": "./"
-        },
-        {
-          "glob": "package.json",
-          "input": "./server/",
-          "output": "./"
-        }
-      ]
+      }
     },
     "CoinTrendsApp-e2e": {
       "root": "e2e/",
